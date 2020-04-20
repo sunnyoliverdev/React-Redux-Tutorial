@@ -40,3 +40,5 @@ const Todos = ({
         </div>
     );
 };
+
+export default Todos;
